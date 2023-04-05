@@ -1,1 +1,1 @@
-# OSIS_Course_Project
+# Program for compressing multimedia files
